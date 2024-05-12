@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">AppMovPractica1</string>
+    <string name="texto_boton_1">Ejercicio 1</string>
+    <string name="texto_boton_2">Ejercicio 2</string>
+    <string name="texto_boton_3">Ejercicio 3</string>
+    <string name="texto_boton_4">Ejercicio 4</string>
+    <string name="texto_boton_5">Ejercicio 5</string>
+    <string name="texto_boton_6">Ejercicio 6</string>
+    <string name="texto_boton_7">Ejercicio 7</string>
+    <string name="texto_boton_8">Ejercicio 8</string>
+    <string name="texto_boton_9">Ejercicio 9</string>
+    <string name="texto_boton_10">Ejercicio 10</string>
+    <string name="texto_header_1">Aplicaciones Móviles</string>
+    <string name="texto_header_2">Roberto Mendoza Vélez - 2024(1)</string>
 </resources>
