@@ -55,8 +55,13 @@
     <string name="texto4_resultado_ejer4">El valor en pesos mexicanos es de: $</string>
     <string name="texto5_resultado_ejer4">El valor en pesos colombianos es de: $</string>
 
-
     //-----Ejercicio 5-----
+    <string name="texto_ejercicio5">Ejercicio 5</string>
+    <string name="texto1_ingreso_ejer5">Ingrese el lado A: </string>
+    <string name="texto2_ingreso_ejer5">Ingrese el lado B:</string>
+    <string name="texto1_hint_ingreso_ejer5">Cateto A</string>
+    <string name="texto2_hint_ingreso_ejer5">Cateto B</string>
+    <string name="texto1_resultado_ejer5">La Hipotenusa es: </string>
 
     //-----Ejercicio 6-----
 
