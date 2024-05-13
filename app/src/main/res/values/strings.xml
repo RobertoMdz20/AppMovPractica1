@@ -30,6 +30,12 @@
     <string name="texto1_resultado_ejer1">La temperatura en Farenheit es: </string>
 
     //-----Ejercicio 2-----
+    <string name="texto_ejercicio2">Ejercicio 2</string>
+    <string name="texto1_ingreso_ejer2">Ingrese la altura: </string>
+    <string name="texto2_ingreso_ejer2">Ingrese el peso:</string>
+    <string name="texto1_hint_ingreso_ejer2">En centimetros</string>
+    <string name="texto2_hint_ingreso_ejer2">En kilogramos</string>
+    <string name="texto1_resultado_ejer2">El IMC es: </string>
 
     //-----Ejercicio 3-----
 
