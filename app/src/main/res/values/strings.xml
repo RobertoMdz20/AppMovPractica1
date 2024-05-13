@@ -1,8 +1,10 @@
 <resources>
     <string name="app_name">AppMovPractica1</string>
+
     //-----Header y Footer-----
     <string name="texto_header_1">Aplicaciones Móviles</string>
     <string name="texto_header_2">Roberto Mendoza Vélez - 2024(1)</string>
+
     //-----Botones Pagina Inicial-----
     <string name="texto_boton_1">Ejercicio 1</string>
     <string name="texto_boton_2">Ejercicio 2</string>
@@ -14,13 +16,39 @@
     <string name="texto_boton_8">Ejercicio 8</string>
     <string name="texto_boton_9">Ejercicio 9</string>
     <string name="texto_boton_10">Ejercicio 10</string>
+
     //-----Boton Calcular-----
     <string name="texto_boton_calcular">CALCULAR</string>
+
+    //-----TextView vacio para mostrar-----
+    <string name="texto_resultado_vacio">  </string>
+
+    //-----Ejercicio 1-----
+    <string name="texto_ejercicio1">Ejercicio 1</string>
+    <string name="texto1_ingreso_ejer1">Ingrese la temperatura:</string>
+    <string name="texto_hint_ingreso_ejer1">En grados Celsius</string>
+    <string name="texto1_resultado_ejer1">La temperatura en Farenheit es: </string>
+
+    //-----Ejercicio 2-----
+
+    //-----Ejercicio 3-----
+
+    //-----Ejercicio 4-----
+
+    //-----Ejercicio 5-----
+
+    //-----Ejercicio 6-----
+
+    //-----Ejercicio 7-----
+
+    //-----Ejercicio 8-----
+
+    //-----Ejercicio 9-----
+
     //-----Ejercicio 10-----
     <string name="texto_ejercicio10">Ejercicio 10</string>
     <string name="texto1_ingreso_ejer10">Ingrese el tiempo recorrido:</string>
     <string name="texto2_ingreso_ejer10">Ingrese el tiempo de espera:</string>
     <string name="texto_hint_ingreso_ejer10">En minutos</string>
     <string name="texto1_resultado_ejer10">El precio final de la carrera es: </string>
-    <string name="texto2_resultado_ejer10">  </string>
 </resources>

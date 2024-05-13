@@ -15,6 +15,7 @@ import androidx.core.view.WindowInsetsCompat;
 import java.util.Locale;
 
 public class Ejercicio10 extends AppCompatActivity {
+
     //Declarar variables
     private EditText id_ctiempo_recorrido, id_ctiempo_espera;
     private TextView id_ctexto_resultado;
@@ -30,12 +31,12 @@ public class Ejercicio10 extends AppCompatActivity {
             return insets;
         });
 
-        // Asinar variables por id
-        id_ctiempo_recorrido = findViewById(R.id.id_tiempo_recorrido);
+        //Asinar variables por id
+        id_ctiempo_recorrido = findViewById(R.id.id_temp_celsius);
         id_ctiempo_espera = findViewById(R.id.id_tiempo_espera);
         id_ctexto_resultado = findViewById(R.id.id_texto_resultado);
     }
-    //Función Calcular
+    //Función Calcular pago
     public void calcular_pago (View view){
         //Verificar si los campos están vacíos
         String tiempo_recorrido_str = id_ctiempo_recorrido.getText().toString();

@@ -77,7 +77,7 @@
                 android:text="@string/texto1_ingreso_ejer10" />
 
             <EditText
-                android:id="@+id/id_tiempo_recorrido"
+                android:id="@+id/id_temp_celsius"
                 android:layout_width="wrap_content"
                 android:layout_height="50dp"
                 android:layout_marginStart="4dp"
@@ -157,7 +157,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="8dp"
                 android:layout_marginEnd="8dp"
-                android:text="@string/texto2_resultado_ejer10"
+                android:text="@string/texto_resultado_vacio"
                 android:textSize="16sp" />
         </LinearLayout>
 
