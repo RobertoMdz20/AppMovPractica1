@@ -38,6 +38,12 @@
     <string name="texto1_resultado_ejer2">El IMC es: </string>
 
     //-----Ejercicio 3-----
+    <string name="texto_ejercicio3">Ejercicio 3</string>
+    <string name="texto1_ingreso_ejer3">Ingrese el precio del producto: </string>
+    <string name="texto2_ingreso_ejer3">Ingrese el % de descuento:</string>
+    <string name="texto1_hint_ingreso_ejer3">USD</string>
+    <string name="texto2_hint_ingreso_ejer3">%</string>
+    <string name="texto1_resultado_ejer3">El precio final del producto es: $</string>
 
     //-----Ejercicio 4-----
 

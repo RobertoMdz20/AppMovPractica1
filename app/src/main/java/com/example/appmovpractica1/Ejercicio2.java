@@ -30,7 +30,7 @@ public class Ejercicio2 extends AppCompatActivity {
             return insets;
         });
 
-        //Asinar variables por id
+        //Asignar variables por id
         id_caltura_cm = findViewById(R.id.id_altura_cm);
         id_cpeso = findViewById(R.id.id_peso);
         id_ctexto_resultado = findViewById(R.id.id_texto_resultado);
@@ -46,8 +46,8 @@ public class Ejercicio2 extends AppCompatActivity {
             Toast.makeText(this, "Ingrese la altura y el peso", Toast.LENGTH_SHORT).show();
             return;
         }
-        Double altura_cm = Double.parseDouble(altura_cm_str);
-        Double peso_kg = Double.parseDouble(peso_str);
+        double altura_cm = Double.parseDouble(altura_cm_str);
+        double peso_kg = Double.parseDouble(peso_str);
         //Verificar si los campos son cero
         if (altura_cm == 0 && peso_kg == 0) {
             Toast.makeText(this, "La altura y el peso no pueden ser cero", Toast.LENGTH_SHORT).show();

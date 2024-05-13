@@ -31,7 +31,7 @@ public class Ejercicio10 extends AppCompatActivity {
             return insets;
         });
 
-        //Asinar variables por id
+        //Asignar variables por id
         id_ctiempo_recorrido = findViewById(R.id.id_temp_celsius);
         id_ctiempo_espera = findViewById(R.id.id_tiempo_espera);
         id_ctexto_resultado = findViewById(R.id.id_texto_resultado);
@@ -45,8 +45,8 @@ public class Ejercicio10 extends AppCompatActivity {
             Toast.makeText(this, "Ingrese el tiempo de recorrido y de espera", Toast.LENGTH_SHORT).show();
             return;
         }
-        Double cm = Double.parseDouble(tiempo_recorrido_str);
-        Double ce = Double.parseDouble(tiempo_espera_str);
+        double cm = Double.parseDouble(tiempo_recorrido_str);
+        double ce = Double.parseDouble(tiempo_espera_str);
         //Verificar si los campos son cero
         if (cm == 0 && ce == 0) {
             Toast.makeText(this, "El tiempo de recorrido y de espera no pueden ser cero", Toast.LENGTH_SHORT).show();
