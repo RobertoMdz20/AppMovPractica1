@@ -86,7 +86,7 @@
                 android:layout_marginBottom="8dp"
                 android:ems="10"
                 android:hint="@string/texto1_hint_ingreso_ejer5"
-                android:inputType="numberDecimal" />
+                android:inputType="number|numberDecimal|numberSigned" />
 
         </LinearLayout>
 
@@ -117,7 +117,7 @@
                 android:layout_marginBottom="8dp"
                 android:ems="10"
                 android:hint="@string/texto2_hint_ingreso_ejer5"
-                android:inputType="numberDecimal" />
+                android:inputType="number|numberDecimal|numberSigned" />
 
         </LinearLayout>
 

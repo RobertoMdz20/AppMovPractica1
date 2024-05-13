@@ -5,7 +5,7 @@
     <string name="texto_header_1">Aplicaciones Móviles</string>
     <string name="texto_header_2">Roberto Mendoza Vélez - 2024(1)</string>
 
-    //-----Botones Pagina Inicial-----
+    //-----Botones-----
     <string name="texto_boton_1">Ejercicio 1</string>
     <string name="texto_boton_2">Ejercicio 2</string>
     <string name="texto_boton_3">Ejercicio 3</string>
@@ -16,9 +16,13 @@
     <string name="texto_boton_8">Ejercicio 8</string>
     <string name="texto_boton_9">Ejercicio 9</string>
     <string name="texto_boton_10">Ejercicio 10</string>
+        //--Boton Calcular--
+        <string name="texto_boton_calcular">CALCULAR</string>
+        //--Boton Verificar--
+        <string name="texto_boton_verificar">VERIFICAR</string>
+        //--Boton Ordenar--
+        <string name="texto_boton_ordenar">ORDENAR</string>
 
-    //-----Boton Calcular-----
-    <string name="texto_boton_calcular">CALCULAR</string>
 
     //-----TextView vacio para mostrar-----
     <string name="texto_resultado_vacio">  </string>
@@ -64,6 +68,10 @@
     <string name="texto1_resultado_ejer5">La Hipotenusa es: </string>
 
     //-----Ejercicio 6-----
+    <string name="texto_ejercicio6">Ejercicio 6</string>
+    <string name="texto1_ingreso_ejer6">Ingrese un número: </string>
+    <string name="texto1_hint_ingreso_ejer6">Ingrese un número</string>
+    <string name="texto1_resultado_ejer6">El número ingresado es: </string>
 
     //-----Ejercicio 7-----
 
