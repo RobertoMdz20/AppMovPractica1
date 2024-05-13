@@ -74,7 +74,10 @@
     <string name="texto1_resultado_ejer6">El número ingresado es: </string>
 
     //-----Ejercicio 7-----
-
+    <string name="texto_ejercicio7">Ejercicio 7</string>
+    <string name="texto1_ingreso_ejer7">Ingrese un número: </string>
+    <string name="texto1_hint_ingreso_ejer7">Ingrese un número</string>
+    <string name="texto1_resultado_ejer7">Números ordenados: </string>
     //-----Ejercicio 8-----
 
     //-----Ejercicio 9-----
