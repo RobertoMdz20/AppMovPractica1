@@ -79,6 +79,10 @@
     <string name="texto1_hint_ingreso_ejer7">Ingrese un número</string>
     <string name="texto1_resultado_ejer7">Números ordenados: </string>
     //-----Ejercicio 8-----
+    <string name="texto_ejercicio8">Ejercicio 8</string>
+    <string name="texto1_ingreso_ejer8">Ingrese un número: </string>
+    <string name="texto1_hint_ingreso_ejer8">Ingrese un número</string>
+    <string name="texto1_resultado_ejer8">El cubo del número ingresado es: </string>
 
     //-----Ejercicio 9-----
 
