@@ -77,7 +77,7 @@
                 android:text="@string/texto1_ingreso_ejer10" />
 
             <EditText
-                android:id="@+id/tiempo_recorrido"
+                android:id="@+id/id_tiempo_recorrido"
                 android:layout_width="wrap_content"
                 android:layout_height="50dp"
                 android:layout_marginStart="4dp"
@@ -93,6 +93,7 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:background="#256B5D83"
             android:gravity="center"
             android:orientation="horizontal">
 
@@ -107,7 +108,7 @@
                 android:text="@string/texto2_ingreso_ejer10" />
 
             <EditText
-                android:id="@+id/tiempo_espera"
+                android:id="@+id/id_tiempo_espera"
                 android:layout_width="wrap_content"
                 android:layout_height="50dp"
                 android:layout_marginStart="4dp"
@@ -127,12 +128,13 @@
             android:orientation="vertical">
 
             <Button
-                android:id="@+id/button"
+                android:id="@+id/id_boton_calcular"
                 android:layout_width="wrap_content"
                 android:layout_height="0dp"
                 android:layout_marginTop="8dp"
                 android:layout_marginBottom="8dp"
                 android:layout_weight="1"
+                android:onClick="calcular_pago"
                 android:text="@string/texto_boton_calcular" />
         </LinearLayout>
 
@@ -146,13 +148,17 @@
                 android:id="@+id/textView3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/texto1_resultado_ejer10" />
+                android:text="@string/texto1_resultado_ejer10"
+                android:textSize="16sp" />
 
             <TextView
-                android:id="@+id/texto_resultado"
+                android:id="@+id/id_texto_resultado"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/texto2_resultado_ejer10" />
+                android:layout_marginStart="8dp"
+                android:layout_marginEnd="8dp"
+                android:text="@string/texto2_resultado_ejer10"
+                android:textSize="16sp" />
         </LinearLayout>
 
     </LinearLayout>

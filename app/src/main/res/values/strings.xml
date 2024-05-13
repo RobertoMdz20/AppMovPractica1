@@ -21,6 +21,6 @@
     <string name="texto1_ingreso_ejer10">Ingrese el tiempo recorrido:</string>
     <string name="texto2_ingreso_ejer10">Ingrese el tiempo de espera:</string>
     <string name="texto_hint_ingreso_ejer10">En minutos</string>
-    <string name="texto1_resultado_ejer10">El precio final de la carrera es:</string>
-    <string name="texto2_resultado_ejer10"></string>
+    <string name="texto1_resultado_ejer10">El precio final de la carrera es: </string>
+    <string name="texto2_resultado_ejer10">  </string>
 </resources>
