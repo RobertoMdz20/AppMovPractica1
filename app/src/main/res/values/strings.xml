@@ -46,6 +46,15 @@
     <string name="texto1_resultado_ejer3">El precio final del producto es: $</string>
 
     //-----Ejercicio 4-----
+    <string name="texto_ejercicio4">Ejercicio 4</string>
+    <string name="texto1_ingreso_ejer4">Ingrese el valor en Dolares: </string>
+    <string name="texto1_hint_ingreso_ejer4">USD</string>
+    <string name="texto1_resultado_ejer4">El valor en euros es de: $</string>
+    <string name="texto2_resultado_ejer4">El valor en libras esterlinas es de: $</string>
+    <string name="texto3_resultado_ejer4">El valor en pesos argentinos es de: $</string>
+    <string name="texto4_resultado_ejer4">El valor en pesos mexicanos es de: $</string>
+    <string name="texto5_resultado_ejer4">El valor en pesos colombianos es de: $</string>
+
 
     //-----Ejercicio 5-----
 
