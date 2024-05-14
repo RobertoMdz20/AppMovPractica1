@@ -85,6 +85,10 @@
     <string name="texto1_resultado_ejer8">El cubo del número ingresado es: </string>
 
     //-----Ejercicio 9-----
+    <string name="texto_ejercicio9">Ejercicio 9</string>
+    <string name="texto1_ingreso_ejer9">Ingrese un número: </string>
+    <string name="texto1_hint_ingreso_ejer9">Ingrese un número</string>
+    <string name="texto1_resultado_ejer9">El promedio es: </string>
 
     //-----Ejercicio 10-----
     <string name="texto_ejercicio10">Ejercicio 10</string>
